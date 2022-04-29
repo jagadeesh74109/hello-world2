@@ -1,1 +1,3 @@
 Hello Artifactory and Sonar
+this is written to check build trigger option 
+date: 29th april 
