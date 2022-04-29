@@ -4,8 +4,11 @@
 </head>
 <body>
 	<h1>Hello World! 
+		
 	    Welcome to the new world
+		
 	    date: 29th april friday
+		
 	    fully automated pipeline is executed for every commit in the git or github</h1>
 	<p>
 		It is now
